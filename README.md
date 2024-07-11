@@ -1,3 +1,3 @@
-# Library_Management_System
+# personal_finance_manager
 
-Weelcom to Library Management System.
+Weelcom to personal finance manager.
